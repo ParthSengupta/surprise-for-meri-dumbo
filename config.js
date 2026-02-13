@@ -7,8 +7,8 @@ const CONFIG = {
 
 
     floatingEmojis: {
-        hearts: ['❤️', '💙', '💝', '💗', '💓'],  
-        others: ['👉👈', '👉👈']                    
+        hearts: ['❤️', '💙', '💝', '💗', '💓','👉👈', '✨'],  
+        others: ['✨', '👉👈']                    
     },
 
 
@@ -42,7 +42,7 @@ const CONFIG = {
     celebration: {
         title: "I swearr ii amm schii thee luckiesttt guyy everrr👉👈....",
         message: "I oweee youuu itniii saaareee kissii anddd hugsss nahhhh!!",
-        emojis: "💙💙💙💙💙💙💙💙"  // These will bounce around
+        emojis: "💙✨💙✨💙✨💙✨"  // These will bounce around
     },
 
     // Color scheme for the website
